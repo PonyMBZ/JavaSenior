@@ -1,0 +1,30 @@
+一.Scanner的声明和使用：
+1.我们可以通过 Scanner 类来获取用户的输入。
+声明：
+  Scanner scanner = new Scanner(System.in);
+调用：
+  int str0 = scanner.nextInt();
+  String str1 = scan.next();
+  String str2 = scan.nextLine();
+
+2.关于next() 与 nextLine() 方法的区别
+next():
+（1）一定要读取到有效字符后才可以结束输入。
+（2）对输入有效字符之前遇到的空白，next() 方法会自动将其去掉。
+（3）只有输入有效字符后才将其后面输入的空白作为分隔符或者结束符。
+ next() 不能得到带有空格的字符串。
+
+nextLine()：
+（1）以Enter为结束符,也就是说 nextLine()方法返回的是输入回车之前的所有字符。
+（2）可以获得空白。
+
+例如用户输入：I Love You
+str1 输出 I
+str2 输出 I Love You
+
+3.当然接收字符串还可以使用BufferedReader类来接收。
+然后调用它的readLine()方法来获得字符串。
+
+Reader reader = new InputStreamReader(System.in);
+BufferedReader bReader = new BufferedReader(reader);
+String str4 = bReader.readLine();

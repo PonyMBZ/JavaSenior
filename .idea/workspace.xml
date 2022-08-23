@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a1608b0-194b-4b0b-a92d-4c85daac7179" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_io_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSenior.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/day01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/com.zzuli/exer/ThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/com.zzuli/exer/ThreadTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/com.zzuli/java/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/com.zzuli/java/ThreadMethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/com.zzuli/java/ThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/com.zzuli/java/ThreadTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/com.zzuli/java/WindowTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/com.zzuli/java/WindowTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/day02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/com/zzuli/exer/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/com/zzuli/java/WindowTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/com/zzuli/java/WindowTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/com/zzuli/java/WindowTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/com/zzuli/java/WindowTest4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/com/zzuli/java1/BankTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/com/zzuli/java1/BankTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/com/zzuli/java1/LockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/com/zzuli/java1/ThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/com/zzuli/java2/CommunicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/com/zzuli/java2/ProductTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/com/zzuli/java2/ThreadNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/com/zzuli/java2/ThreadNew1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/day03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/src/com/zzuli/exer/exer1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/src/com/zzuli/exer/exer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/src/com/zzuli/exer/exer3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/src/com/zzuli/java/DateTimeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/src/com/zzuli/java/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/src/com/zzuli/java/StringBufferBuilderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/src/com/zzuli/java/StringMethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/src/com/zzuli/java/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/src/com/zzuli/java/StringTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/src/com/zzuli/java/testStringBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/day04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/src/com/zzuli/exer/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/src/com/zzuli/java/CompareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/src/com/zzuli/java/DateTimeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/src/com/zzuli/java/Goods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/src/com/zzuli/java/JDK8DateTimeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/day05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/src/com/zzuli/java/AnnotationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/src/com/zzuli/java/MyAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/src/com/zzuli/java/SeasonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/src/com/zzuli/java/SeasonTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/day06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/src/com/zzuli/exer/CollectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/src/com/zzuli/exer/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/src/com/zzuli/java/CollectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/src/com/zzuli/java/CollectionsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/src/com/zzuli/java/MapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/src/com/zzuli/java/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/src/com/zzuli/java/PropertiseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/src/com/zzuli/java/SetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/day07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/src/com/zzuli/exer/GenericTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/src/com/zzuli/exer/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/src/com/zzuli/exer/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/src/com/zzuli/exer1/Dao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/src/com/zzuli/exer1/DaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/src/com/zzuli/exer1/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/src/com/zzuli/java/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/src/com/zzuli/java/CustomerDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/src/com/zzuli/java/Dao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/src/com/zzuli/java/DaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/src/com/zzuli/java/GenericTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/src/com/zzuli/java/GenericTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/src/com/zzuli/java/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/src/com/zzuli/java/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/src/com/zzuli/java/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/src/com/zzuli/java/StudentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/src/com/zzuli/java/Suborder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/src/com/zzuli/java/Suborder1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/Hiiro.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/Hiiro1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/count.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/day08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/dbcp.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/dbcp1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/dbcp_gbk.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/hello1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/hello2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/src/com/zzuli/exer/FileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/src/com/zzuli/exer/PicTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/src/com/zzuli/exer/TestInputStreamOutputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/src/com/zzuli/java/BufferedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/src/com/zzuli/java/FileReaderWriterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/src/com/zzuli/java/FileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/src/com/zzuli/java/InputStreamReaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/src/com/zzuli/java/TestFileReaderFileWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/薇尔莉特.伊芙加登.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/薇尔莉特.伊芙加登1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/Hiiro.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/Hiiro1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/Hiiro2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/day09.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/libs/commons-io-2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/object.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/src/com/zzuli/java/FileUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/src/com/zzuli/java/ObjectInputOutputStreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/src/com/zzuli/java/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/src/com/zzuli/java/RandomAccessFileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/Hiiro.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/Hiiro1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/Hiiro2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/Hiiro3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/day10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/src/com/zzuli/java/InetAddressTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/src/com/zzuli/java/TCPTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/src/com/zzuli/java/TCPTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/src/com/zzuli/java/TCpTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/src/com/zzuli/java/UDPTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/src/com/zzuli/java/URLTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11/day11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11/src/com/zzuli/exer/Creature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11/src/com/zzuli/exer/FileldTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11/src/com/zzuli/exer/MyAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11/src/com/zzuli/exer/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11/src/com/zzuli/exer/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11/src/com/zzuli/exer1/FileldTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11/src/com/zzuli/java/ClassLoaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11/src/com/zzuli/java/NewInstanceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11/src/com/zzuli/java/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11/src/com/zzuli/java/ReflectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11/src/com/zzuli/java1/MethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11/src/com/zzuli/java1/OtherTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11/src/com/zzuli/java1/ReflectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11/src/jdbc1.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day12/day12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day12/src/com/zzuli/java/ProxyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day12/src/com/zzuli/java/StaticProxyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day12/src/com/zzuli/java1/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day12/src/com/zzuli/java1/EmployeeData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day12/src/com/zzuli/java1/LambdaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day12/src/com/zzuli/java1/LambdaTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day12/src/com/zzuli/java1/LambdaTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day12/src/com/zzuli/java3/StreamAPITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day12/src/com/zzuli/java3/StreamAPITest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git.ignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_1/hanser.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_1/hanser1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_1/jdbc_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_1/lib/mysql-connector-java-8.0.27.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_1/src/com/zzuli/bean/Customers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_1/src/com/zzuli/bean/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_1/src/com/zzuli/blob/BlobTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_1/src/com/zzuli/blob/InsertTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_1/src/com/zzuli/blob/hanser.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_1/src/com/zzuli/connection/ConnectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_1/src/com/zzuli/preparedstatement/crud/CustomerForQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_1/src/com/zzuli/preparedstatement/crud/OrderForQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_1/src/com/zzuli/preparedstatement/crud/PreparedStatementQueryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_1/src/com/zzuli/preparedstatement/crud/PreparedStatementUpdateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_1/src/com/zzuli/statement/crud/StatementTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_1/src/com/zzuli/statement/crud/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_1/src/com/zzuli/util/JDBCUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_1/src/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_2/jdbc_2_practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_2/lib/mysql-connector-java-8.0.27.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_2/src/com/zzuli/PreparedStatement/crud/CustomerForQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_2/src/com/zzuli/PreparedStatement/crud/PreparedStatementUpdateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_2/src/com/zzuli/bean/Customers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_2/src/com/zzuli/connection/ConnectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_2/src/com/zzuli/util/JDBCUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_3/jdbc_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_3/lib/mysql-connector-java-8.0.27.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_3/src/com/zzuli/transaction/TransactionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_3/src/com/zzuli/transaction/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_3/src/com/zzuli/util/JDBCUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_3/src/com/zzuli2/bean/Customers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_3/src/com/zzuli2/bean/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_3/src/com/zzuli2/dao/BaseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_3/src/com/zzuli2/dao/CustomerDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_3/src/com/zzuli2/dao/CustomerDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_3/src/com/zzuli2/dao/CustomerDAOImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_3/src/com/zzuli3/dao/BaseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_3/src/com/zzuli3/dao/CustomerDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_3/src/com/zzuli3/dao/CustomerDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_3/src/com/zzuli3/dao/CustomerDAOImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_3/src/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_3_practice/jdbc_3_practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_3_practice/lib/mysql-connector-java-8.0.27.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_3_practice/src/com/zzuli/bean/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_3_practice/src/com/zzuli/dao/BaseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_3_practice/src/com/zzuli/dao/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_3_practice/src/com/zzuli/dao/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_3_practice/src/com/zzuli/dao/UserDaoImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_3_practice/src/com/zzuli/util/JDBCUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_3_practice/src/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_4/jdbc_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_4/lib/c3p0-0.9.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_4/lib/commons-dbcp-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_4/lib/commons-dbutils-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_4/lib/commons-pool-1.5.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_4/lib/druid-1.1.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_4/lib/mysql-connector-java-8.0.27.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_4/src/bean/Customers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_4/src/bean/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_4/src/c3p0-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_4/src/com/zzuli/connection/C3P0Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_4/src/com/zzuli/connection/DBCPTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_4/src/com/zzuli/connection/DruidTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_4/src/com/zzuli/utils/JDBCUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_4/src/com/zzuli/utils/JDBCUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_4/src/com/zzuli1/dbutils/QueryRunnerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_4/src/dbcp.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc_4/src/druid.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/os/os.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/os/src/com/zzuli/pony/JCBTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/os/src/com/zzuli/shy2/JCBTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/os/src/com/zzuli/shy2/Memory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/os3/os3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/os3/src/com/zzuli/pony/DynamicPartitionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/os3/src/com/zzuli/pony/JCB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/os3/src/com/zzuli/pony/PagingStorage1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/os5/os5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/os5/src/com/zzuli/pony/PagingStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/os5/src/com/zzuli/pony/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day01/com/zzuli/exer/MyThread1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day01/com/zzuli/exer/MyThread2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day01/com/zzuli/exer/Thread1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day01/com/zzuli/exer/Thread2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day01/com/zzuli/exer/ThreadDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day01/com/zzuli/exer/ThreadDemo$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day01/com/zzuli/exer/ThreadDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day01/com/zzuli/exer/ThreadTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day01/com/zzuli/java/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day01/com/zzuli/java/MyThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day01/com/zzuli/java/MyThread1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day01/com/zzuli/java/MyTread2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day01/com/zzuli/java/ThreadMethodTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day01/com/zzuli/java/ThreadTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day01/com/zzuli/java/ThreadTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day01/com/zzuli/java/Window.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day01/com/zzuli/java/Window1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day01/com/zzuli/java/WindowTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day01/com/zzuli/java/WindowTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day01/com/zzuli/java/mThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/com/zzuli/exer/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/com/zzuli/exer/AccountTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/com/zzuli/exer/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/com/zzuli/java/Window1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/com/zzuli/java/Window2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/com/zzuli/java/Window3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/com/zzuli/java/Window4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/com/zzuli/java/WindowTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/com/zzuli/java/WindowTest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/com/zzuli/java/WindowTest3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/com/zzuli/java/WindowTest4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/com/zzuli/java1/BankTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/com/zzuli/java1/BankTest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/com/zzuli/java1/LockTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/com/zzuli/java1/Order1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/com/zzuli/java1/Order2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/com/zzuli/java1/ThreadTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/com/zzuli/java1/ThreadTest$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/com/zzuli/java1/ThreadTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/com/zzuli/java1/Window.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/com/zzuli/java2/Clerk.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/com/zzuli/java2/CommunicationTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/com/zzuli/java2/Consumer1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/com/zzuli/java2/NumThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/com/zzuli/java2/Number.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/com/zzuli/java2/NumberThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/com/zzuli/java2/NumberThread1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/com/zzuli/java2/NumberThread2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/com/zzuli/java2/Producer1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/com/zzuli/java2/ProductTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/com/zzuli/java2/ThreadNew.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/com/zzuli/java2/ThreadNew1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day03/com/zzuli/exer/exer1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day03/com/zzuli/exer/exer2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day03/com/zzuli/exer/exer3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day03/com/zzuli/java/DateTimeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day03/com/zzuli/java/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day03/com/zzuli/java/StringBufferBuilderTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day03/com/zzuli/java/StringMethodTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day03/com/zzuli/java/StringTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day03/com/zzuli/java/StringTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day03/com/zzuli/java/testStringBuffer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day04/com/zzuli/exer/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day04/com/zzuli/java/CompareTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day04/com/zzuli/java/CompareTest$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day04/com/zzuli/java/CompareTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day04/com/zzuli/java/DateTimeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day04/com/zzuli/java/Goods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day04/com/zzuli/java/JDK8DateTimeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day05/com/zzuli/java/AnnotationTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day05/com/zzuli/java/Info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day05/com/zzuli/java/Info1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day05/com/zzuli/java/MyAnnotation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day05/com/zzuli/java/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day05/com/zzuli/java/Season.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day05/com/zzuli/java/Season1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day05/com/zzuli/java/Season1$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day05/com/zzuli/java/Season1$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day05/com/zzuli/java/Season1$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day05/com/zzuli/java/Season1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day05/com/zzuli/java/SeasonTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day05/com/zzuli/java/SeasonTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day05/com/zzuli/java/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day06/com/zzuli/exer/CollectionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day06/com/zzuli/exer/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day06/com/zzuli/java/CollectionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day06/com/zzuli/java/CollectionsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day06/com/zzuli/java/MapTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day06/com/zzuli/java/MapTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day06/com/zzuli/java/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day06/com/zzuli/java/PropertiseTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day06/com/zzuli/java/SetTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day07/com/zzuli/exer/GenericTest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day07/com/zzuli/exer/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day07/com/zzuli/exer/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day07/com/zzuli/exer1/Dao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day07/com/zzuli/exer1/DaoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day07/com/zzuli/exer1/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day07/com/zzuli/java/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day07/com/zzuli/java/CustomerDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day07/com/zzuli/java/Dao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day07/com/zzuli/java/DaoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day07/com/zzuli/java/GenericTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day07/com/zzuli/java/GenericTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day07/com/zzuli/java/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day07/com/zzuli/java/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day07/com/zzuli/java/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day07/com/zzuli/java/StudentDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day07/com/zzuli/java/Suborder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day07/com/zzuli/java/Suborder1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day08/com/zzuli/exer/FileDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day08/com/zzuli/exer/PicTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day08/com/zzuli/exer/TestInputStreamOutputStream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day08/com/zzuli/java/BufferedTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day08/com/zzuli/java/FileReaderWriterTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day08/com/zzuli/java/FileTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day08/com/zzuli/java/InputStreamReaderTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day08/com/zzuli/java/TestFileReaderFileWriter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day09/com/zzuli/java/FileUtilsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day09/com/zzuli/java/ObjectInputOutputStreamTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day09/com/zzuli/java/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day09/com/zzuli/java/RandomAccessFileTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day10/com/zzuli/java/InetAddressTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day10/com/zzuli/java/TCPTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day10/com/zzuli/java/TCPTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day10/com/zzuli/java/TCpTest3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day10/com/zzuli/java/UDPTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day10/com/zzuli/java/URLTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day11/com/zzuli/exer/Creature.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day11/com/zzuli/exer/FileldTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day11/com/zzuli/exer/MyAnnotation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day11/com/zzuli/exer/MyInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day11/com/zzuli/exer/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day11/com/zzuli/exer1/FileldTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day11/com/zzuli/java/ClassLoaderTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day11/com/zzuli/java/NewInstanceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day11/com/zzuli/java/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day11/com/zzuli/java/ReflectionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day11/com/zzuli/java1/MethodTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day11/com/zzuli/java1/OtherTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day11/com/zzuli/java1/ReflectionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day11/jdbc1.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day12/com/zzuli/java/ClothFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day12/com/zzuli/java/Human.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day12/com/zzuli/java/HumanUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day12/com/zzuli/java/MyInvocationHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day12/com/zzuli/java/NikeClothFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day12/com/zzuli/java/ProxyClothFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day12/com/zzuli/java/ProxyFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day12/com/zzuli/java/ProxyTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day12/com/zzuli/java/StaticProxyTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day12/com/zzuli/java/SuperMan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day12/com/zzuli/java1/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day12/com/zzuli/java1/EmployeeData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day12/com/zzuli/java1/LambdaTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day12/com/zzuli/java1/LambdaTest$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day12/com/zzuli/java1/LambdaTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day12/com/zzuli/java1/LambdaTest1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day12/com/zzuli/java1/LambdaTest1$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day12/com/zzuli/java1/LambdaTest1$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day12/com/zzuli/java1/LambdaTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day12/com/zzuli/java1/LambdaTest2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day12/com/zzuli/java1/LambdaTest2$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day12/com/zzuli/java1/LambdaTest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day12/com/zzuli/java3/StreamAPITest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day12/com/zzuli/java3/StreamAPITest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_1/com/zzuli/bean/Customers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_1/com/zzuli/bean/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_1/com/zzuli/blob/BlobTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_1/com/zzuli/blob/InsertTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_1/com/zzuli/blob/hanser.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_1/com/zzuli/connection/ConnectionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_1/com/zzuli/preparedstatement/crud/CustomerForQuery.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_1/com/zzuli/preparedstatement/crud/OrderForQuery.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_1/com/zzuli/preparedstatement/crud/PreparedStatementQueryTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_1/com/zzuli/preparedstatement/crud/PreparedStatementUpdateTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_1/com/zzuli/statement/crud/StatementTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_1/com/zzuli/statement/crud/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_1/com/zzuli/util/JDBCUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_1/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_2_practice/com/zzuli/PreparedStatement/crud/CustomerForQuery.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_2_practice/com/zzuli/PreparedStatement/crud/PreparedStatementUpdateTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_2_practice/com/zzuli/bean/Customers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_2_practice/com/zzuli/connection/ConnectionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_2_practice/com/zzuli/util/JDBCUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_3/com/zzuli/transaction/TransactionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_3/com/zzuli/transaction/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_3/com/zzuli/util/JDBCUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_3/com/zzuli2/bean/Customers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_3/com/zzuli2/bean/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_3/com/zzuli2/dao/BaseDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_3/com/zzuli2/dao/CustomerDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_3/com/zzuli2/dao/CustomerDAOImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_3/com/zzuli2/dao/CustomerDAOImplTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_3/com/zzuli3/dao/BaseDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_3/com/zzuli3/dao/CustomerDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_3/com/zzuli3/dao/CustomerDAOImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_3/com/zzuli3/dao/CustomerDAOImplTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_3/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_3_practice/com/zzuli/bean/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_3_practice/com/zzuli/dao/BaseDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_3_practice/com/zzuli/dao/UserDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_3_practice/com/zzuli/dao/UserDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_3_practice/com/zzuli/dao/UserDaoImplTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_3_practice/com/zzuli/util/JDBCUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_3_practice/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_4/bean/Customers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_4/bean/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_4/c3p0-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_4/com/zzuli/connection/C3P0Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_4/com/zzuli/connection/DBCPTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_4/com/zzuli/connection/DruidTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_4/com/zzuli/utils/JDBCUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_4/com/zzuli/utils/JDBCUtilsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_4/com/zzuli1/dbutils/QueryRunnerTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_4/com/zzuli1/dbutils/QueryRunnerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_4/dbcp.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jdbc_4/druid.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/os/com/zzuli/pony/JCB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/os/com/zzuli/pony/JCBTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/os/com/zzuli/shy2/JCB2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/os/com/zzuli/shy2/JCBTest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/os/com/zzuli/shy2/Memory$Zone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/os/com/zzuli/shy2/Memory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/os3/com/zzuli/pony/DynamicPartitionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/os3/com/zzuli/pony/JCB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/os3/com/zzuli/pony/PagingStorage1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/os3/com/zzuli/pony/Partition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/os3/com/zzuli/pony/page.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/os5/com/zzuli/pony/Job$XY.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/os5/com/zzuli/pony/Job.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/os5/com/zzuli/pony/PagingStorage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/os5/com/zzuli/pony/Test1$XY.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/os5/com/zzuli/pony/Test1$p.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/os5/com/zzuli/pony/Test1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/review_fanxing/com/zzuli/demo1/MainClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/review_fanxing/com/zzuli/demo2/Generic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/review_fanxing/com/zzuli/demo2/MainClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/review_fanxing/com/zzuli/demo3/MainClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/review_fanxing/com/zzuli/demo3/ProductGetter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/review_lambda/functionalInterface/InterfaceTest$Test1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/review_lambda/functionalInterface/InterfaceTest$Test2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/review_lambda/functionalInterface/InterfaceTest$Test3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/review_lambda/functionalInterface/InterfaceTest$Test4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/review_lambda/functionalInterface/InterfaceTest$Test5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/review_lambda/functionalInterface/InterfaceTest$Test6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/review_lambda/functionalInterface/InterfaceTest$Test7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/review_lambda/functionalInterface/InterfaceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/review_lambda/interfaces/NoneReturnMultipleParameter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/review_lambda/interfaces/NoneReturnNoneParameter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/review_lambda/interfaces/NoneReturnSingleParameter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/review_lambda/interfaces/SingleReturnMultipleParameter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/review_lambda/interfaces/SingleReturnNoneParameter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/review_lambda/interfaces/SingleReturnSingleParameter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/review_lambda/syntax/BaseSyntax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/review_lambda/syntax/BasicPro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/review_lambda/syntax/Lambda1$Calculate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/review_lambda/syntax/Lambda1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/review_fanxing/review_fanxing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/review_fanxing/src/com/zzuli/demo1/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/review_fanxing/src/com/zzuli/demo2/Generic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/review_fanxing/src/com/zzuli/demo2/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/review_fanxing/src/com/zzuli/demo3/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/review_fanxing/src/com/zzuli/demo3/ProductGetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/review_lambda/review_lambda.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/review_lambda/src/functionalInterface/InterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/review_lambda/src/interfaces/NoneReturnMultipleParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/review_lambda/src/interfaces/NoneReturnNoneParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/review_lambda/src/interfaces/NoneReturnSingleParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/review_lambda/src/interfaces/SingleReturnMultipleParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/review_lambda/src/interfaces/SingleReturnNoneParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/review_lambda/src/interfaces/SingleReturnSingleParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/review_lambda/src/syntax/BaseSyntax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/review_lambda/src/syntax/BasicPro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/review_lambda/src/syntax/Lambda1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Tag Library Descriptor" />
+        <option value="FxmlFile" />
+        <option value="c3p0-config" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+        <option value="git.ignore" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/day05/src/com/zzuli/java/SeasonTest1.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/jdbc_3/src/com/zzuli2/bean/Order.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/jdbc_3/src/com/zzuli2/dao/BaseDao.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/jdbc_3/src/com/zzuli2/dao/CustomerDAO.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day05/day05.iml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/os3/src/com/zzuli/pony/JCB.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/jdbc_3/src/com/zzuli2/bean/Customers.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/os3/src/com/zzuli/pony/DynamicPartitionTest.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/jdbc_3/src/com/zzuli2/dao/CustomerDAOImpl.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day06/src/com/zzuli/java/CollectionTest.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/jdbc_1/src/com/zzuli/preparedstatement/crud/PreparedStatementQueryTest.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day08/src/com/zzuli/java/BufferedTest.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/os/src/com/zzuli/shy2/JCBTest2.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day04/src/com/zzuli/java/Goods.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/jdbc_3/src/com/zzuli/util/JDBCUtils.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/jdbc_3/src/com/zzuli/transaction/User.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/os/src/com/zzuli/pony/JCBTest.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/jdbc_3/src/com/zzuli3/dao/CustomerDAOImpl.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day05/src/com/zzuli/java/MyAnnotation.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day05/src/com/zzuli/java/AnnotationTest.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/jdbc_3/src/com/zzuli3/dao/CustomerDAO.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/jdbc_3/src/com/zzuli/transaction/TransactionTest.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/jdbc_3/src/com/zzuli3/dao/CustomerDAOImplTest.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="25mQblvzsYXmCC7KVwVPmri98pG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.splitter.proportion" value="0.27808675" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DevelopmentStudy\practice\IdeaWorkspace\JavaSenior\jdbc_1\lib" />
+      <recent name="D:\DevelopmentStudy\practice\IdeaWorkspace\JavaSenior\jdbc_4\lib" />
+      <recent name="D:\DevelopmentStudy\practice\IdeaWorkspace\JavaSenior\jdbc_3_practice\lib" />
+      <recent name="D:\DevelopmentStudy\practice\IdeaWorkspace\JavaSenior\jdbc_3\src\com\zzuli3\dao" />
+      <recent name="D:\DevelopmentStudy\practice\IdeaWorkspace\JavaSenior\jdbc_3\src\com\zzuli2\bean" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\DevelopmentStudy\practice\IdeaWorkspace\JavaSenior\jdbc_3\src" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.zzuli.utils" />
+      <recent name="com.zzuli.dao" />
+      <recent name="com.zzuli.util" />
+      <recent name="com.zzuli.demo2" />
+      <recent name="com.zzuli2.dao" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="bean" />
+      <recent name="functionalInterface" />
+      <recent name="com.zzuli3.dao" />
+      <recent name="com.zzuli.java1" />
+      <recent name="java.com.exer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PagingStorage">
+    <configuration name="DynamicPartitionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zzuli.pony.DynamicPartitionTest" />
+      <module name="os3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zzuli.pony.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PagingStorage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zzuli.pony.PagingStorage" />
+      <module name="os5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zzuli.pony.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PagingStorage1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zzuli.pony.PagingStorage1" />
+      <module name="os3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zzuli.pony.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1.mapText" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="os5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zzuli.pony.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zzuli.pony" />
+      <option name="MAIN_CLASS_NAME" value="com.zzuli.pony.Test1" />
+      <option name="METHOD_NAME" value="mapText" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1.text" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="os5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zzuli.pony.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zzuli.pony" />
+      <option name="MAIN_CLASS_NAME" value="com.zzuli.pony.Test1" />
+      <option name="METHOD_NAME" value="text" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PagingStorage" />
+        <item itemvalue="Application.DynamicPartitionTest" />
+        <item itemvalue="Application.PagingStorage1" />
+        <item itemvalue="JUnit.Test1.mapText" />
+        <item itemvalue="JUnit.Test1.text" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a1608b0-194b-4b0b-a92d-4c85daac7179" name="Default Changelist" comment="" />
+      <created>1646129858111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646129858111</updated>
+      <workItem from="1646129859282" duration="9112000" />
+      <workItem from="1646202042277" duration="23950000" />
+      <workItem from="1646288179387" duration="12710000" />
+      <workItem from="1646305676257" duration="6830000" />
+      <workItem from="1646351959613" duration="3406000" />
+      <workItem from="1646374445267" duration="5081000" />
+      <workItem from="1646461491897" duration="20953000" />
+      <workItem from="1646533149780" duration="23443000" />
+      <workItem from="1646634857335" duration="15940000" />
+      <workItem from="1646807153044" duration="14967000" />
+      <workItem from="1646902573398" duration="2689000" />
+      <workItem from="1646981608293" duration="9266000" />
+      <workItem from="1647049177884" duration="1022000" />
+      <workItem from="1647068149971" duration="4908000" />
+      <workItem from="1647152552076" duration="13839000" />
+      <workItem from="1647245995784" duration="6367000" />
+      <workItem from="1647332985825" duration="7148000" />
+      <workItem from="1647412091344" duration="17831000" />
+      <workItem from="1647500036867" duration="17218000" />
+      <workItem from="1647585456787" duration="11278000" />
+      <workItem from="1647672734198" duration="16649000" />
+      <workItem from="1647754608064" duration="17949000" />
+      <workItem from="1647846991895" duration="9447000" />
+      <workItem from="1647866083534" duration="4562000" />
+      <workItem from="1647939551254" duration="11207000" />
+      <workItem from="1648037361950" duration="589000" />
+      <workItem from="1648104713082" duration="18331000" />
+      <workItem from="1648193163148" duration="5187000" />
+      <workItem from="1648199200092" duration="8525000" />
+      <workItem from="1648276396073" duration="8019000" />
+      <workItem from="1648384834129" duration="5482000" />
+      <workItem from="1648527793369" duration="26656000" />
+      <workItem from="1648651827109" duration="2410000" />
+      <workItem from="1648681434121" duration="997000" />
+      <workItem from="1648710203589" duration="16513000" />
+      <workItem from="1648812462712" duration="1465000" />
+      <workItem from="1648856696876" duration="30309000" />
+      <workItem from="1648978214479" duration="12214000" />
+      <workItem from="1649058477700" duration="18460000" />
+      <workItem from="1649083302211" duration="2318000" />
+      <workItem from="1649142229904" duration="11315000" />
+      <workItem from="1649156672925" duration="9761000" />
+      <workItem from="1649225990730" duration="6381000" />
+      <workItem from="1649233324137" duration="10449000" />
+      <workItem from="1649314093463" duration="27885000" />
+      <workItem from="1649400781409" duration="7638000" />
+      <workItem from="1649486665132" duration="3008000" />
+      <workItem from="1649580424145" duration="596000" />
+      <workItem from="1649660982903" duration="9863000" />
+      <workItem from="1649673559656" duration="6814000" />
+      <workItem from="1649763613516" duration="607000" />
+      <workItem from="1649917019348" duration="12117000" />
+      <workItem from="1650107677963" duration="1508000" />
+      <workItem from="1650179772933" duration="14684000" />
+      <workItem from="1650263105347" duration="24413000" />
+      <workItem from="1650334914587" duration="9723000" />
+      <workItem from="1650365401694" duration="9104000" />
+      <workItem from="1650435696242" duration="10333000" />
+      <workItem from="1650530235047" duration="4503000" />
+      <workItem from="1650536703686" duration="15346000" />
+      <workItem from="1650633380769" duration="6401000" />
+      <workItem from="1650697597216" duration="21657000" />
+      <workItem from="1650793004613" duration="5042000" />
+      <workItem from="1650800297339" duration="2329000" />
+      <workItem from="1650871441900" duration="12183000" />
+      <workItem from="1650966699768" duration="11276000" />
+      <workItem from="1651128199097" duration="20751000" />
+      <workItem from="1651303592839" duration="1791000" />
+      <workItem from="1651315040583" duration="99000" />
+      <workItem from="1651454090394" duration="573000" />
+      <workItem from="1651477842552" duration="8902000" />
+      <workItem from="1651488942137" duration="10093000" />
+      <workItem from="1651568859359" duration="1553000" />
+      <workItem from="1652773186521" duration="23326000" />
+      <workItem from="1652856936641" duration="8883000" />
+      <workItem from="1652949227354" duration="6995000" />
+      <workItem from="1653026117498" duration="1061000" />
+      <workItem from="1653887564578" duration="2002000" />
+      <workItem from="1655085984939" duration="1713000" />
+      <workItem from="1657001452074" duration="293000" />
+      <workItem from="1657007966371" duration="1845000" />
+      <workItem from="1661219539243" duration="1204000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="JavaEE First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaEE First Commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/day12/src/com/zzuli/java/StaticProxyTest.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/day12/src/com/zzuli/java/StaticProxyTest.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/day12/src/com/zzuli/java/StaticProxyTest.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/os5/src/com/zzuli/pony/Test1.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
