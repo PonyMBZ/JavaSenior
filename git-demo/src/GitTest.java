@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("master 第二次修改");
         System.out.println("hot-fix 第二次修改");
         System.out.println("hot-fix 第二次修改");
+        System.out.println("pull 第一次修改");
     }
 }
