@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a1608b0-194b-4b0b-a92d-4c85daac7179" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_2022_8_23_10_43__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_2022_8_23_10_43__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/git-demo/src/GitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/git-demo/src/GitTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/git-demo/GitTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/git-demo/GitTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-demo/src/GitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/git-demo/src/GitTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +101,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.27808675" />
   </component>
   <component name="RecentsManager">
@@ -344,7 +344,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="JavaEE First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="JavaEE First Commit" />
+    <MESSAGE value="JavaEE master third Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaEE master third Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
