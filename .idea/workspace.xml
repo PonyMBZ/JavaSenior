@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a1608b0-194b-4b0b-a92d-4c85daac7179" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/git-demo/git-demo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-demo/src/GitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/git-demo/src/GitTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -308,7 +307,7 @@
       <workItem from="1655085984939" duration="1713000" />
       <workItem from="1657001452074" duration="293000" />
       <workItem from="1657007966371" duration="1845000" />
-      <workItem from="1661219539243" duration="1406000" />
+      <workItem from="1661219539243" duration="1551000" />
     </task>
     <task id="LOCAL-00001" summary="JavaEE First Commit">
       <created>1661220808465</created>
@@ -317,7 +316,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661220808465</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="JavaEE First Commit">
+      <created>1661221116534</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661221116534</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
